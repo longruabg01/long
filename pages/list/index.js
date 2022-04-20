@@ -26,7 +26,7 @@ const List = () => {
     <div className="h-screen w-screen flex items-center justify-center">
       <div className="h-auto  w-full md:w-1/2 md:shadow-lg xl:w-1/4 border rounded-sm px-5 py-10 justify-center">
         <div className=" py-2 text-center text-3xl">
-          <span>Todos App</span>
+          <span>Todos App Pro</span>
         </div>
         <div className="w-full h-10 mb-3">
           <input
